@@ -1,0 +1,91 @@
+body {
+    letter-spacing: 1px;
+}
+
+/* Start breadcrumb */
+.breadcrumb-holder {
+    background-color:black;
+    margin: 0;
+}
+.breadcrumb {
+    background-color:black;
+    margin:0;
+    padding:10px 0;
+}
+.breadcrumb a {
+    text-decoration: none;
+    color:var(--main-color);
+}
+.breadcrumb a:hover {
+    color: blanchedalmond;
+}
+/* End breadcrumb */
+
+/* Start About intro */
+.about-intro {
+    padding-top:70px;
+    padding-bottom:70px;
+    background-color: #333;
+    color: #888;
+}
+.about-intro hr {
+    width: 40%;
+    border-top-color:black;
+}
+.about-intro h1 {
+    color: #f09621;
+    font-size: 62px;
+}
+.about-intro img {
+    width: 900px;
+    height: 500px;
+    margin: 0 auto;
+}
+/* End About intro */
+
+/* Start Features */ 
+.web-features {
+    background-color: #333;
+    padding-bottom:70px;
+    color: #888;  
+}
+.web-features i {
+    color: var(--main-color);
+}
+.web-features h3 {
+    color: #f09621;
+}
+.web-features p {
+    margin-bottom: 30px;
+}
+/* End Features */ 
+
+/* Start Ceo Section */ 
+.ceo {
+    padding-top: 40px;
+    
+}
+.ceo img {
+    border-radius: 4px;
+}
+.ceo p {
+line-height: 1.7;
+color: #888;
+}
+.ceo .btn {
+    background-color: var(--main-color);
+    border-color: var(--main-color);
+    margin-top:10px;
+    margin-bottom:10px;
+}
+/* End Ceo Section */ 
+
+
+
+
+
+
+
+.footer {
+
+}
